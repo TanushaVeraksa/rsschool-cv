@@ -1,7 +1,7 @@
 ![photo](/img/profile-photo.jpg) 
-#Tatsyana Veraksa
+# Tatsyana Veraksa
 
-###Junior Developer
+### Junior Developer
 ***
 Hardworking university graduate with the ability to multitask and
 work well with others. I have good knowledge of HTML\CSS\JS,
@@ -10,18 +10,18 @@ acquainted with object oriented languages such as C# and Java.
 ***
 
 
-###Skills
+### Skills
         - HTML\CSS\JS
         - React 
         - Git
         - Java
         - Oracle, MYSQL
-###Language
+### Language
 __English:__
 *Experience level: __B1__.*
 __Russian:__
 *Experience level: __Native speaker__.*
-###Contacts
+### Contacts
 Mobile:
 +375 29 23 841 84
 Email:
